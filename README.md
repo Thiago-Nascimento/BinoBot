@@ -9,8 +9,10 @@ https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-so
 
 ## Funções AWS Lambda
 As funções AWS são as responsáveis pelas requisições dos apps (Ex: IBM Watson, Twilio, etc)
-# Função simulação
+
+## Função simulação
 Essa função serve de protótipo para o mvp da solução desenvolvida.
+
 ## Documentação
 A documentação contém as principais informações do projeto. 
 
