@@ -1,4 +1,6 @@
 # BinoBot
+Trata-se de um protótipo conceitual, portanto as funcionalidades ainda não foram completamente implementadas.
+
 ## Resumo
 Essa aplicação foi desenvolvida para ajudar o caminhoneiro a calcular o valor do seu frete, utilizando os critérios previstos nas tabelas de cálculo¹, e ainda considerando os custos com gasolina e pedágio.
  
