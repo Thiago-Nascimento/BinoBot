@@ -1,5 +1,4 @@
 # BinoBot
-Trata-se de um protótipo conceitual, portanto as funcionalidades ainda não foram completamente implementadas.
 
 ## Resumo
 Essa aplicação foi desenvolvida para ajudar o caminhoneiro a calcular o valor do seu frete, utilizando os critérios previstos nas tabelas de cálculo¹, e ainda considerando os custos com gasolina e pedágio.
@@ -17,3 +16,5 @@ A documentação contém as principais informações do projeto.
 ## Referências
 Tabelas de cálculo¹: São as tabelas oficiais utilizadas para calcular o preço mínimo do frete.<br>
 Link: http://www.antt.gov.br/cargas/arquivos_old/Tabelas_de_Precos_Minimos_do_Transporte_Rodoviario_de_Cargas.html
+
+Trata-se de um protótipo conceitual, portanto as funcionalidades ainda não foram completamente implementadas.
