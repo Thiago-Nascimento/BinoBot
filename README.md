@@ -1,6 +1,6 @@
 # BinoBot
 ## Resumo
-Essa aplicação foi desenvolvida para ajudar o caminhoneiro a calcular ovalor do seu frete, utilizando os critérios previstos nas tabelas de cálculo¹, e ainda considerando os custos com gasolina e pedágio.
+Essa aplicação foi desenvolvida para ajudar o caminhoneiro a calcular o valor do seu frete, utilizando os critérios previstos nas tabelas de cálculo¹, e ainda considerando os custos com gasolina e pedágio.
  
 ## Preview Watson Assistant
 Link de preview do bot:<br>
