@@ -2,7 +2,11 @@
 
 ## Resumo
 Essa aplicação foi desenvolvida para ajudar o caminhoneiro a calcular o valor do seu frete, utilizando os critérios previstos nas tabelas de cálculo¹, e ainda considerando os custos com gasolina e pedágio.
- 
+
+## Video de Apresentação
+Link do video:<br>
+https://www.youtube.com/watch?v=IdfN4c_1E0U&feature=youtu.be
+
 ## Preview Watson Assistant
 Link de preview do bot:<br>
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=01a2ed0a-f471-4396-a397-6103f7185d52&serviceInstanceID=1b9aa7f3-2683-44cf-b8bf-6a93b64151a5
